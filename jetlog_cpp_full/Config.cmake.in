@@ -1,0 +1,3 @@
+@PACKAGE_INIT@
+
+include ( "${CMAKE_CURRENT_LIST_DIR}/jetlog_cpp_fullTargets.cmake" )
